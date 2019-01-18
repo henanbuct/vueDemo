@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/henanbuct/vueDemo/issues"
   },
-  "homepage": "https://github.com/henanbuct/vueDemo#readme"
+  "homepage": "https://github.com/henanbuct/vueDemo#readme",
+  "dependencies": {
+    "antd": "^3.12.3",
+    "babel-plugin-import": "^1.11.0"
+  }
 }
