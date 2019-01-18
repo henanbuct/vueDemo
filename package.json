@@ -1,0 +1,19 @@
+{
+  "name": "vuedemo",
+  "version": "1.0.0",
+  "description": "不使用vue-cli，而是自己通过vue2.0+webpack来搭建自己的前端工作流，配置webpack打包文件，提升自己的内功\r 将会记载自己遇到的所有坑和解决方案，因为听说坑特别多；",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henanbuct/vueDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henanbuct/vueDemo/issues"
+  },
+  "homepage": "https://github.com/henanbuct/vueDemo#readme"
+}
